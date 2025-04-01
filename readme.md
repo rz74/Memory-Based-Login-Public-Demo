@@ -57,8 +57,11 @@ public-demo/
 In this public demo, the final destination is:
 
 ```
-https://github.com/rz74/rzwebsite
+https://github.com/rz74/Memory-Based-Login-Public-Demo
+
 ```
+
+which is back to this repo 
 
 …but you’ll never see that in the browser address bar. It’s mirrored inside the app using a Netlify Function proxy, so users stay within the site visually.
 
